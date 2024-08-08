@@ -1,0 +1,4 @@
+db/*
+!db/.gitkeep
+model/*
+!model/.gitkeep
