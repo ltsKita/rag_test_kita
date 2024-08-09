@@ -2,3 +2,5 @@ db/*
 !db/.gitkeep
 model/*
 !model/.gitkeep
+venv/
+__pycache__/
