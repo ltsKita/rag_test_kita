@@ -4,3 +4,4 @@ model/*
 !model/.gitkeep
 venv/
 __pycache__/
+data/関西電力_美浜発電所公開情報.pdf
