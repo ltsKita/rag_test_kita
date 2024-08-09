@@ -23,7 +23,7 @@ loaded_vectorstore = Chroma(
 """
 
 # ベクトルストアの利用例
-query = "特定重大事故等対処施設について教えて"
+query = "特定重大事故等対処施設について教えて。"
 results = loaded_vectorstore.similarity_search(query,k=5)
 
 # 結果を表示
